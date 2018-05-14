@@ -3,7 +3,7 @@
 ## Group Members
 
 * Adam Banham N7176546
-* Alex Wilson
+* Alexander Wilson N9732462
 * Christopher Ayling N9713581
 
 ## Objective 
