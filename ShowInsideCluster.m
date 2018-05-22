@@ -16,7 +16,7 @@ for class = 1 : numberOfClusters
         count = count + 1; 
         end
     else
-        disp('not enough examples in this class')
+        fprintf('not enough examples in this class \n')
         close(h);
     end
     axesscale;
