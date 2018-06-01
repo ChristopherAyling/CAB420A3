@@ -11,6 +11,14 @@
 To explore the the performance of different machine learning algorithms and architectures in
 completing tasks of categorizing images of classes they have never seen before.
 
+Our group hopes to find approaches that can work without the need to extract features or use heavy pre-processing of images before the approach can be used with an impactful effect on the field. 
+Often pre-processing is needed due to images having a lot of noise which can occur when all examples aren’t taken with the same environmental settings. 
+
+Lighting, focus, colour and centring of the object are common causes of noise and need to be pre-processed to find meaningful data between all examples.
+
+If these approaches are used in fields like described before this could lead to a new era where information can be extracted from any image to provide new insights into patterns and knowledge which would have taken extreme amounts of work from humans.
+
+
 ## Dataset Info
 
 The data used to train and evaluate the algorithms will be a subset of the Caltech256 dataset
